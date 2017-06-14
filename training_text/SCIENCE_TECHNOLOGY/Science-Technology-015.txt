@@ -1,0 +1,38 @@
+Web Technologies Master List
+Image Editing
+Bitmap Editor
+Browser Resources/Tools
+Browsers
+Other
+Usability/Accessibility
+SEO (Search Engine Optimization)
+Social Networking
+Compatibility/Testing
+Development Environment
+Database and the Web
+Collection of data
+Basic Web Languages
+Script Editor
+Dynamic Web Languages
+Web Programing Languages
+CMS / E-Commerce
+Content Management Systems
+SEO / Web Standards
+Web Security
+Design Concepts
+Fundamental Principles of Site Design
+Version Control
+Agile Programming
+Agile Software Development Methods
+Project Management
+Processes of Implementing a project
+Project Methodologies
+Project Road-map Techniques
+Frameworks
+Knowledge Resources
+Cloud Technologies
+Cloud Storage
+Operating Systems(OS)
+Linux
+Windows
+OS X

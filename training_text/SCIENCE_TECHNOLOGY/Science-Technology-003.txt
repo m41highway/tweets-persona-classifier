@@ -1,0 +1,12 @@
+Electronics
+Biometrics	Keys and ID documents
+Digital scent technology			Smell-O-Vision, iSmell
+Electronic nose	X-ray and MRI scans for detecting cancer	Detecting spoiled food, chemical weapons and cancer
+E-textiles
+Flexible electronics		Flexible and folding electronic devices (such as smartphones), Flexible solar cells which are lightweight, can be rolled up for launch, and are easily deployable	Nokia Morph, Flexible organic light-emitting diode
+Memristor	Some current integrated circuits, many other electronics devices	Smaller, faster, lower power consuming storage, analogue electronics, programmable logic, signal processing, neural networks, control systems, reconfigurable computing, brain-computer interfaces and RFID, pattern recognition
+Molecular electronics
+Nanoelectromechanical systems
+Spintronics	Mechanical magnetic hard disk drives	Data storage, computing devices	MRAM
+Thermal copper pillar bump	Conventional thermal systems, heat sinks, bulk thermoelectrics	Electric circuit cooling; micro-fluidic actuators; small-device thermoelectric power generation	Ultra high definition holographic disc, Metal–insulator transition
+Three-dimensional integrated circuit	Integrated Circuits	Memory and data processing

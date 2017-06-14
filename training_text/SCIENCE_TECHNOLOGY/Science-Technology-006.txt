@@ -1,0 +1,26 @@
+Energy
+Airborne wind turbine	Fossil fuels	Producing electricity	KiteGen
+Artificial photosynthesis	Fossil fuel or 'archived' photosynthesis	Improve natural photosynthesis, so roads buildings and vehicles convert sunlight and water into hydrogen and carbon dioxide into carbohydrates	Sustainocene, Renewable energy, Nanotechnology
+Concentrated solar power	Fossil fuels, photovoltaics	Producing electricity	DESERTEC, BrightSource Energy, Solar Millennium
+Cryogenic Treatment	Metals, metal matrix composites, glassy metal hybrids and B4C	Oil and gas Blowout preventers (BOP), jet engines, power turbines, locomotives, electric vehicles, gears and bearings	Emerging Technologies Science Foundation
+Electric double-layer capacitor	Chemical batteries	Regenerative braking; energy storage: generally faster charging, longer lasting, more flexible, greener
+Energy harvesting	Batteries	Constant energy source for mobile, wearable and ubiquitous devices	Humavox
+Flywheel energy storage
+Fusion power	Fossil fuels, renewable energy, nuclear fission power	Producing electricity, heat, fusion torch recycling with waste heat	ITER, NIF, Polywell, Dense plasma focus, Muon-catalyzed fusion, Wendelstein 7-X
+Generation IV reactor	Traditional nuclear power reactors, fossil fuels	Producing electricity, heat, transmutation of nuclear waste stockpiles from traditional reactors
+Grid energy storage
+Home fuel cell	Electrical grid	Off-the-grid, producing electricity	Autonomous building, Bloom Energy Server
+Lithium-air battery	Other energy storage methods: hydrogen, chemical batteries, some uses of fossil fuels	Laptops, mobile phones, long-range electric cars; storing energy for electric grid
+Lithium iron phosphate battery
+Lithium–sulfur battery
+Magnesium battery	Lithium-ion battery
+Molten salt reactor	Traditional nuclear power reactors, fossil fuels	Producing electricity, heat
+Nanowire battery	Other energy storage methods: hydrogen, chemical batteries, some uses of fossil fuels	Laptops, mobile phones, long-range electric cars; storing energy for electric grid
+Nantenna	Fossil fuels	Producing electricity
+Ocean thermal energy conversion
+Smart grid			Smart meter, SuperSmart Grid
+Space-based solar power
+Thorium fuel cycle	Uranium based nuclear power, fossil fuels	Producing electricity, heat
+Vortex engine	Chimney, Cooling tower, Solar updraft tower	Power generation.
+Wireless energy transfer	Power cords, plugs, batteries	Wirelessly powered equipment: laptop, cell phones, electric cars, etc.	WiTricity, resonant inductive coupling
+Zero-energy building	Electrical grid and power plants	All homes	Passive house

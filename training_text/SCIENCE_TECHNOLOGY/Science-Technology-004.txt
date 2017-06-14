@@ -1,0 +1,24 @@
+Medical
+Emerging technology	Status	Potentially marginalized technologies	Potential applications	Related articles
+Artificial uterus	Hypothetical, research	Incubator, in vivo pregnancy, including host motherhood	space travel, extracorporeal pregnancy, Reprogenetics, same-sex procreation
+Body implants, prosthesis	Trials, from animal (e.g., brain implants) to human clinical (e.g., insulin pump implant), to commercial production (e.g. pacemaker, joint replacement, cochlear implant)	Various fields of medicine, warfare	Brain implant, retinal implant	Prosthetics, prosthetics in fiction, cyborg
+Cryonics	Hypothetical, research, commercialization (e.g. Cryonics Institute)	Cemeteries	Life extension
+De-extinction	Research, development, trials		Animal husbandry, pets, zoos	Recreating the woolly mammoth species
+Genetic engineering of organisms and viruses	Research, development, commercialization Other medical procedures (including aesthetic medicine and contraception), traditional warfare (genetically modified soldiers, ethnic bioweapon), traditional animal husbandry and plant and fungus breeding, tattoo artism and fitness clubs and cosmetics and nutrition (because of new genes humans will be able to change on demand their look), gardening (because of new genes there will be no need to nurture plants), species-saving efforts (because of new genes they can adapt to new environments), traditional fuel production Creating and modifying species (mainly improving their physical and mental capabilities), bio-machines, eliminating genetic disorders (gene therapy), new materials production, healthier and cheaper food, creating drugs and vaccines, research in natural sciences, bioremediation, detecting arsenic Biopunk, Genetically modified food, superhuman, human enhancement, transhumanism, gene doping, designer baby, genetic pollution
+Hibernation or suspended animation	Research, development, animal trials Surgical anaesthesia	Organ transplantation, space travel, prolonged surgery, emergency care
+Immunotherapy - immuno oncology	Commercialized, Research and Development	Conventional cancer therapy - chemotherapy, radiotherapy, surgery	Oncology - cancer therapeutics (mono and combination cancer therapy) using targeted and innate immune responses.	Checkpoint inhibitors (anti-pd-1, anti pd-L1, ctla-4), CAR-T, IDO inhibitors, Oncolytic Virus / Virotherapy (see below)
+Life extension, Strategies for Engineered Negligible Senescence	Research, experiments, animal testing	Existing treatments for age-related diseases Increased life spans[113]	Immortality, biological immortality
+Male contraception and 100%-effective birth control methods Research and Development	Other birth control methods, abortion
+Nanomedicines	Research, experiments, limited use
+Nanosensors	Research and Development
+Oncolytic Virus	Human trials (Talimogene laherparepvec, reolysin, JX-594), commercialisation (H101)		Cancer therapy, imaging	Oncolytic virus
+Personalized medicine, full genome sequencing	Research, experiments Non-personalized medical procedures, including aesthetic medicine	Personalized medical procedures, genome sequencing during drug trials	Personal genomics
+Plantibody	clinical trials
+Regenerative medicine	Some laboratory trials Life extension
+Robotic surgery	Research, diffusion Surgeons untrained in robotic surgery
+Stem cell treatments	Research, experiments, phase I human trial spinal cord injury treatment (GERON), cultured cornea transplants Other therapies	Treatment for a wide range of diseases and injuries	Stem cell, stem cell treatments, Skin cell gun,
+Synthetic biology, synthetic genomics	Research, development, first synthetic bacteria created May 2010[ Chemical industry, petroleum industry, process manufacturing	Creating infinitely scalable production processes based on programmable species of bacteria and other life forms	BioBrick, iGEM, synthetic genomics
+Tissue engineering	Research, diffusion Organ printing, Tooth regeneration
+Tricorder	Research and Development	Medical examinations	Diagnosing medical conditions	Medical tricorder
+Virotherapy	Research, human trials		Gene therapy, cancer therapy	Virotherapy, Oncolytic Virus
+Vitrification or cryoprotectant	Hypothetical, some experiments Ischemic damages	Organ transplantation, cryonics

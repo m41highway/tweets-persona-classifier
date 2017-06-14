@@ -1,0 +1,17 @@
+Military
+Caseless ammunition	Cartridges		Lightweight Small Arms Technologies
+Cloaking device	Camouflage	Cloaking microscope tips at optical frequencies	Metamaterial cloaking
+Directed energy weapon	Firearms	Warfare	Laser Weapon System
+Electrolaser	Taser
+Electromagnetic weapons	Firearms	Warfare	Coilgun, Railgun
+Electrothermal-chemical technology	Conventional ammunition	Tank, artillery, and close-in weapon systems
+Force field	Armor	Military and law enforcement, space travel	Plasma window
+Green bullet	Current ammunition	Environment-friendly ammunition
+Laser weapon	Missile defense, anti-drone defense	Tracking and destruction of rockets, bombs, drones etc.	Advanced Tactical Laser, High Energy Liquid Laser Area Defense System
+Particle beam weapon	Firearms	Warfare	Strategic Defense Initiative
+Plasma weapon
+Pure fusion weapon
+Sonic weapon
+Stealth technology	Camouflage	Electronic countermeasures	Plasma stealth, Stealth aircraft, Radar-absorbent material
+Vortex ring gun	tear gas	Crowd control
+Wireless long-range electric shock weapon	Firearms	Law enforcement guns

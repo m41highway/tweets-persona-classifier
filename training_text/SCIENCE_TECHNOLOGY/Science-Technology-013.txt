@@ -1,0 +1,292 @@
+PowerBook ("Pismo")
+Power Mac G4 Cube
+Cinema Display (22")
+iBook (FireWire)
+PowerBook G4 Titanium
+iBook (white)
+Power Mac G4 Quicksilver
+Server G4 Quicksilver
+iPod (1st gen)
+iMac G4 15"
+iBook (14")
+eMac
+Xserve
+iMac G4 17"
+iPod (2nd gen)
+Power Macintosh G4 MDD
+Macintosh Server G4 MDD
+PowerBook G4 Aluminum (12")
+PowerBook G4 Aluminum (17")
+Xserve slot loading
+Xserve Cluster Node
+iPod (3rd gen)
+Power Macintosh G5
+PowerBook G4 Aluminum (15")
+iBook G4 (12" / 14")
+iMac G4 20"
+Xserve G5
+Xserve Cluster Node G5
+iPod Mini (1st gen)
+iPod+HP
+AirPort Express (802.11g)
+Power Macintosh G5 FX
+Cinema Display (20")
+Cinema Display (23")
+Cinema Display (30")
+iPod (4th gen)
+iMac G5 17"
+iMac G5 20"
+iPod Photo
+Mac Mini
+iPod Shuffle (1st gen)
+iPod Mini (2nd gen)
+iPod Nano (1st gen)
+iPod (5th gen)
+Power Macintosh G5 dual core
+iMac (Early 2006)
+iPod Radio Remote
+MacBook Pro (15")
+Mac Mini Core Solo
+Mac Mini Core Duo
+iPod Hi-Fi
+Apple Remote Desktop 3
+MacBook Pro (17")
+MacBook
+Shake 4
+Nike+iPod
+Mac Pro
+Xserve (Intel)
+iMac (Mid 2006)
+iPod Shuffle (2nd gen)
+iPod Nano (2nd gen)
+Apple TV (1st gen)
+iPhone (1st generation) (4 GB)
+iPhone (1st generation) (8 GB)
+iMac (Mid 2007)
+Apple Mighty Mouse (revised)
+Apple Keyboard with Numeric Keypad
+Apple Wireless Keyboard (Aluminum)
+Mac Mini (Mid 2007)
+iPod Nano (3rd gen)
+iPod Classic (6th gen)
+iPod Touch (1st gen) (8 & 16 GB)
+Logic Studio
+Final Cut Express 4
+Xserve (Early 2008)
+Mac Pro (Early 2008)
+MacBook Air (Early 2008)
+MacBook Air External SuperDrive
+iPhone (1st generation) (16 GB)
+Aperture 2
+Xsan 2
+MacBook (Early 2008)
+MacBook Pro (Early 2008) (15")
+MacBook Pro (Early 2008) (17")
+iPod Touch (1st gen) (32 GB)
+Time Capsule (1st gen)
+AirPort Express 802.11n (1st gen)
+Final Cut Studio 2
+iMac (Early 2008)
+Logic Express 8
+MobileMe
+iPhone 3G (8 GB)
+iPhone 3G (16 GB)
+iPod Nano (4th gen)
+iPod Classic (6th gen) (120 GB)
+iPod Touch (2nd gen) (8 GB)
+iPod Touch (2nd gen) (16 & 32 GB)
+In-Ear Headphones
+Final Cut Server
+MacBook Air (Late 2008)
+MacBook (Late 2008) (White)
+MacBook (Late 2008) (Aluminum)
+MacBook Pro (Late 2008) (15")
+LED Cinema Display
+Bento 2.0
+MacBook Pro (Early 2009) (17")
+iWork '09
+FileMaker Pro 10
+iLife '09
+MacBook (Early 2009) (White)
+Mac Mini (Early 2009)
+iMac (Early 2009)
+Mac Pro (Early 2009)
+Time Capsule (2nd gen) (500 GB)
+Time Capsule (2nd gen) (1 TB)
+AirPort Extreme 802.11n (3rd gen)
+Apple Keyboard (short)
+iPod Shuffle (3rd gen) (4 GB)
+Xserve (2009)
+MacBook (Mid 2009)
+MacBook Pro (Mid 2009)
+MacBook Air (Mid 2009)
+iPhone 3GS (16 & 32 GB)
+Final Cut Studio 3
+Final Cut Server 1.5
+Logic Studio 2
+Logic Express 9
+Time Capsule (2nd gen) (2 TB)
+iPod Nano (5th gen)
+iPod Classic (6th gen) (160 GB)
+iPod Touch (3rd gen)
+iPod Shuffle (3rd gen) (2 GB)
+iMac (Late 2009)
+MacBook (Late 2009)
+Mac Mini (Late 2009)
+Magic Mouse
+AirPort Extreme 802.11n (4th gen)
+Aperture 3
+Time Capsule (3rd gen)
+iPad (Wi-Fi)
+MacBook Pro (Mid 2010)
+iPad (Wi-Fi + 3G)
+MacBook (Mid 2010)
+Mac Mini (Mid 2010)
+iPhone 3GS (8 GB)
+iPhone 4 (GSM) (16 & 32 GB)
+iMac (Mid 2010)
+Magic Trackpad
+Mac Pro (Mid 2010)
+iPod Touch (4th gen) (8 & 64 GB)
+iPod Touch (4th gen) (32 GB)
+iPod Nano (6th gen)
+iPod Shuffle (4th gen)
+Apple TV (2nd gen)
+MacBook Air (Late 2010)
+iLife '11
+iPhone 4 (CDMA) (16 & 32 GB)
+MacBook Pro (Early 2011)
+iPad 2 (16 GB)
+iPad 2 (32 & 64 GB)
+iMac (Mid 2011)
+AirPort Extreme 802.11n (5th gen)
+Time Capsule (4th gen)
+MacBook Air (Mid 2011)
+Mac Mini (Mid 2011)
+Thunderbolt Display
+iCloud
+Cards
+Find My Friends
+AirPort Utility
+iPhone 4 (8 GB)
+iPhone 4S (16 GB)
+iPhone 4S (32 & 64 GB)
+MacBook Pro (Late 2011)
+iBooks Author
+iPad (3rd gen)
+Apple TV (3rd gen)
+Mac Pro (Mid 2012)
+MacBook Air (Mid 2012)
+MacBook Pro (Mid 2012)
+MacBook Pro with Retina display (3rd gen) (15") (Mid 2012)
+AirPort Express 802.11n (2nd gen)
+Xsan 3
+Apple EarPods
+iPod Touch (4th gen) (16 GB)
+iPhone 5
+iPod Touch (5th gen) (32 & 64 GB)
+iPod Nano (7th gen)
+Mac Mini (Late 2012)
+MacBook Pro with Retina display (3rd gen) (13") (Late 2012)
+iPad Mini (Wi-Fi) (16 GB)
+iPad Mini (Wi-Fi) (32 & 64 GB)
+iPad (4th gen) (Wi-Fi) (16 GB)
+iPad (4th gen) (Wi-Fi) (32 & 64 GB)
+iPad Mini (Wi-Fi + Cellular) (16 GB)
+iPad Mini (Wi-Fi + Cellular) (32 & 64 GB)
+iPad (4th gen) (Wi-Fi + Cellular) (16 GB)
+iPad (4th gen) (Wi-Fi + Cellular) (32 & 64 GB)
+iMac (21.5") (Late 2012)
+iMac (27") (Late 2012)
+Apple TV (3rd gen Rev A)
+MacBook Pro with Retina display (3rd gen) (Early 2013)
+iPod Touch (5th gen) (16 GB)
+AirPort Extreme 802.11ac (6th gen)
+Time Capsule (5th gen)
+MacBook Air (Mid 2013)
+iPhone 4S (8 GB)
+iPhone 5C (16 & 32 GB)
+iPhone 5S (16 & 32 GB)
+iPhone 5S (64 GB)
+iMac (21.5") (Late 2013)
+iMac (27") (Late 2013)
+MacBook Pro with Retina display (3rd gen) (Late 2013)
+iWork (2013)
+iLife (2013)
+iPad Air (16 & 32 GB)
+iPad Air (64 & 128 GB)
+iPad Mini 2 (16 GB)
+iPad Mini 2 (32 GB)
+iPad Mini 2 (64 & 128 GB)
+Mac Pro (Late 2013)
+iPhone 5C (8 GB)
+MacBook Air (Early 2014)
+iMac (21.5") (Mid 2014)
+iPod Touch (5th gen) (16 GB)
+MacBook Pro with Retina display (3rd gen) (Mid 2014)
+iPhone 6 (16 & 64 GB)
+iPhone 6 Plus (16 & 64 GB)
+iPhone 6 (128 GB)
+iPhone 6 Plus (128 GB)
+iMac with Retina 5K display (27") (Late 2014)
+Mac Mini (Late 2014)
+Xsan 4
+iPad Air 2 (16, 64 & 128 GB)
+iPad Mini 3 (16, 64 & 128 GB)
+MacBook Air (13") (Early 2015)
+MacBook Air (11") (Early 2015)
+MacBook Pro with Retina display (3rd gen) (13") (Early 2015)
+MacBook (Early 2015)
+Apple Watch
+Apple Watch Sport
+Apple Watch Edition
+MacBook Pro with Retina display (3rd gen) (15") (Mid 2015)
+iMac with Retina 5K display (27") (Mid 2015)
+Apple Music
+iPod Touch (6th gen)
+iPad Mini 4 (16 GB and 64 GB)
+iPad Mini 4 (32 GB)
+iPad Mini 4 (128 GB)
+iPhone 6S (128 GB)
+iPhone 6S Plus (128 GB)
+iPhone 6S (16GB and 64GB)
+iPhone 6S Plus (16GB and 64GB)
+iMac with Retina 4K display (21.5") (Late 2015)
+iMac with Retina 5K display (27") (Late 2015)
+Magic Mouse 2
+Magic Trackpad 2
+Apple TV (4th generation)
+iPad Pro (12.9") (32 and 128 GB)
+Apple Pencil
+iPad Pro (9.7")
+iPhone SE (16 GB and 64 GB)
+iPad Pro (12.9") (256 GB)
+MacBook (Early 2016)
+iPhone 7
+iPhone 7 Plus
+iPhone 6S (32 GB)
+iPhone 6S Plus (32 GB)
+Apple Watch Series 1
+Apple Watch Series 2
+Apple Watch Hermès Series 2
+Apple Watch Edition Series 2
+MacBook Pro (4th gen) (13")
+MacBook Pro with Touch Bar (4th gen) (13")
+MacBook Pro with Touch Bar (4th gen) (15")
+Apple Watch Nike+ Series 2
+Apple AirPods
+iPhone SE (32 GB and 128 GB)
+iPad (7th gen)
+iPad Pro (12.9") (2nd Gen)
+iPad Pro (10.5")
+MacBook Air (13") (Mid 2017)
+MacBook (Mid 2017)
+MacBook Pro (4th gen) (13") (Mid 2017)
+MacBook Pro with Touch Bar (4th gen) (13") (Mid 2017)
+MacBook Pro with Touch Bar (4th gen) (15") (Mid 2017)
+iMac (21.5") (Mid 2017)
+iMac with Retina 4K display (21.5") (Mid 2017)
+iMac with Retina 5K display (27") (Mid 2017)
+iMac Pro (27") (Late 2017)
+HomePod
+

@@ -1,0 +1,39 @@
+Transport
+See also: List of proposed future transport
+Emerging technology	Status	Potentially marginalized technologies	Potential applications	Related articles
+Airless tire	Research, development, early prototypes Conventional tire Safer tires Tweel
+Alternative fuel vehicle	Commercialization, diffusion	Internal combustion engine	Reducing air pollution, decreasing oil consumption	Electric vehicle, Hydrogen vehicle, Compressed air vehicle
+Beam-powered propulsion	Hypothetical			Laser propulsion
+Electro hydrodynamic propulsion	Research, development, prototypes Flying car, "hoverboards"	Better flying transportation, efficient propulsion in air	Electrohydrodynamics
+Electric car	Commercialization	Internal combustion engine
+Flexible wings (X-53 Active Aeroelastic Wing, Adaptive Compliant Wing), fluidic flight controls	Experiments, prototypes Other flight control systems: ailerons, elevators, elevons,
+flaps, flaperons
+
+Controlling aircraft, ships	Aircraft flight control system, BAE Systems Demon, fluidics
+Flying car	Early commercialization, prototypes Automobile, road	More effective transportation	Terrafugia Transition, Moller M400 Skycar, Urban Aeronautics X-Hawk, AeroMobil
+Fusion rocket	Research, development Chemical rockets	Fast Interplanetary Travel, with limited Interstellar applications
+Hoverbike	Working prototypes, early commercialization	Cars, motorcycles, mopeds, bicycles	Package delivery, search and rescue
+Hovertrain, Ground effect train	Research, development Conventional trains	Trains with higher speed	Aérotrain, Duke Hospital PRT, Hovercraft
+High Altitude Platforms	Experimentation	Most satellites, cell phone towers	Communications
+Jet pack or backpack helicopter	Early commercialization, prototypes Automobile	More effective transportation
+Maglev train, Vactrain	Research, early commercialization Conventional trains, the wheel	Trains with higher speed	Transrapid, Shanghai Maglev Train, Linimo
+Magnetic levitation	Research, development, Commercialization (Maglev Train)	Wheels, tires, conventional transportation systems	High temperature superconductivity, cryogenics, low temperature refrigerators, superconducting magnet design and construction, fiber reinforced plastics for vehicles and structural concretes, communication and high power solid-state controls, vehicle design (aerodynamics and noise mitigation), precision manufacturing, construction and fabrication of concrete structures, maglev car, maglev based spacecraft launch	Vactrain, Levicar
+Mass driver	Prototypes
+Float to Orbit	Hypothetical	Conventional space launch	Space launch
+Nuclear photonic rocket	Hypothetical	ion rockets	interplanetary travel
+Personal rapid transit	Early commercialization, diffusion Automobile	More effective transportation	Morgantown PRT, ULTra
+Photon rocket	Hypothetical	chemical rockets	local interstellar travel
+Physical Internet	Research Conventional logistics
+Vactrain	Research, development	High-speed rail	Faster way to get somewhere	ET3 Global Alliance, Hyperloop
+Propellant depot	Research, development	Heavy lift rockets	enabling deep-space missions with more massive payloads, satellite life extension, ultimately lowering the cost per kg launched to space
+Pulse detonation engine	Testbed demos	Chemical
+rockets
+
+Fast Interplanetary Travel, with some possible Interstellar Travel applications
+Reusable launch system	Research, development	Expendable launch system	Surface-to-orbit transport	SpaceX reusable launch system development program
+Scramjet	Research, development Conventional jet engine	Hypersonic aircraft	NASA X-43
+Solar sail	In 2010, IKAROS was the world's first spacecraft designed to use solar sailing propulsion to be successfully launched		Space travel
+Space elevator	Research, development Non-rocket spacelaunch, Orbital ring, Sky hook, Space fountain
+Spaceplane	Research, development Conventional airliners	Hypersonic transport	A2, Skylon
+Supersonic transport	Commercialization existed, diffusion	Conventional airliners	Airliner with higher speed	Concorde, Tupolev Tu-144
+Vehicular communication systems	Research and development, some diffusion	Automobile safety	vehicle safety obstacle inform others warnings on entering intersections, Traffic management Accommodating ambulances, fire trucks, and police cars to a specific situation such as hot pursuits and bad weather, Driver assistance systems, Automated highways.	Artificial Passenger, Dedicated short-range communications, Intelligent transportation system

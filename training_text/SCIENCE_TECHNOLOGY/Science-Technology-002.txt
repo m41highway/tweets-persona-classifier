@@ -1,0 +1,4 @@
+Aviation
+Drones		Policing, delivery, entertainment, surveillance & surveying, agriculture, journalism, arts, firefighting, and nonmilitary security work	Delivery drone, swarm robotics, cloud robotics, quadcopter
+Micro air vehicle		Covert indoor reconnaissance, "fly-on-the-wall" espionage, operation in confined human-inaccessible spaces	Unmanned aerial vehicle, biomimetics
+Neural-sensing headset (trans-cranial neural sensing and characterization) (by Honeywell).	Conventional headsets	Assisting pilots	Brain–computer interface, neuroprosthetics

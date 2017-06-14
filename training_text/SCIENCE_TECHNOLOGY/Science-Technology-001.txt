@@ -1,0 +1,37 @@
+IT and communications
+5G cellular communications
+Ambient intelligence
+Artificial brain		Blue Brain Project, Human Brain Project
+Artificial general intelligence	Human decision, analysis, etc.	Progress in artificial intelligence, technological singularity, applications of artificial intelligence
+Atomtronics
+Augmented reality		Google Glass, Windows Holographic, Mixed reality, Smartglasses
+Blockchain or distributed ledger technology[87]	Professional intermediaries	Bitcoin, Digital currency, Cryptocurrency, e-democracy
+Carbon nanotube field-effect transistor	Silicon-based transistors
+Civic technology		Civic technology, Smart city, e-democracy, open data, intelligent environment
+Counterparty (technology)	Bookmaker, stock exchange, central banking	Bitcoin, Cryptocurrency, Digital currency
+Cryptocurrency	Central banking	Bitcoin, Digital currency
+DNA digital data storage
+Exascale computing
+Gesture recognition	Mouse, keyboard, touchscreen
+Internet of Things
+Emerging memory technologies	Current memory technologies	T-RAM, memristor, Z-RAM, TTRAM, CBRAM, SONOS, RRAM, Racetrack memory, NRAM, Phase-change memory, FJG RAM, Millipede memory, Skyrmion, Programmable metallization cell, 3D XPoint, Ferroelectric RAM, Magnetoresistive random-access memory, nvSRAM
+Emerging magnetic data storage technologies		SMR, HAMR, BPM, MAMR, TDMR, CPP/GMR, PMR, Hard disk drive
+Fourth-generation optical discs (3D optical data storage, Holographic data storage)	Some mass storage methods/devices, magnetic tape data storage, optical data storage	Blu-ray Disc, Optical storage
+General-purpose computing on graphics processing units	CPU for a few specialized uses
+Exocortex	Libraries, schools, training, pocket calculators
+Li-Fi	Wi-Fi network
+Machine translation	Human translation of natural languages, in areas where misunderstanding is non-critical and language is formalized
+Machine vision	Biotic vision and perception, including humans	Computer vision, pattern recognition, digital image processing
+Mobile collaboration and e-learning	Transport of humans, traditional video-conferencing systems
+Nanoradio	Traditional radio transmitters & receivers
+Optical computing	Many electronics devices, integrated circuits
+Quantum computing	Atomtronics,
+Electronic computing, optical computing, quantum clock
+Quantum cryptography
+Radio-frequency identification	Barcode
+Semantic Web or answer machine	Web 2.0	Corporate Semantic Web, Semantic Web Services, Semantic Web Stack, Web 3.0
+Smart speaker	Smartphones, computers	Amazon Echo, Google Home
+Software-defined radio	Traditional, frequency-specific radio circuits, dedicated signal processing hardware	GNU Radio, Universal Software Radio Peripheral
+Speech recognition	Mechanical input devices
+Subvocal recognition
+Virtual Reality	Oculus Rift, HTC Vive, PlayStation VR

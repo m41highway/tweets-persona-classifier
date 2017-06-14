@@ -1,0 +1,38 @@
+Eastern Conference
+Atlantic Division
+Boston Celtics
+Brooklyn Nets
+New York Knicks
+Philadelphia 76ers
+Toronto Raptors
+Central Division
+Chicago Bulls
+Cleveland Cavaliers
+Detroit Pistons
+Indiana Pacers
+Milwaukee Bucks
+Southeast Division
+Atlanta Hawks
+Charlotte Hornets
+Miami Heat
+Orlando Magic
+Washington Wizards
+Western Conference
+Southwest Division
+Dallas Mavericks
+Houston Rockets
+Memphis Grizzlies
+New Orleans Pelicans
+San Antonio Spurs
+Northwest Division
+Denver Nuggets
+Minnesota Timberwolves
+Oklahoma City Thunder
+Portland Trail Blazers
+Utah Jazz
+Pacific Division
+Golden State Warriors
+Los Angeles Clippers
+Los Angeles Lakers
+Phoenix Suns
+Sacramento Kings

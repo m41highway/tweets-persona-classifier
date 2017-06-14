@@ -1,0 +1,67 @@
+fresh - Sushi always requires fresh fish.
+off - I'm afraid this cheese tastes off.
+raw - Sushi is made from raw fish as well as vegetables, seaweed and rice.
+ripe - Make sure the bananas are ripe so I can use them in the cake.
+rotten - This meat smells rotten. I think we should throw it away.
+tough - The steak was very tough. I could hardly chew it!
+tender - The lamb was so tender that it seemed to melt in my mouth.
+undercooked - The undercooked salmon was very poor.
+unripe - Many types of fruit are picked unripe and become ripe as they are shipped.
+overcooked - The broccoli was overcooked. It should have been crisper.
+
+bake - I'll bake a cake for her birthday party.
+boil - You should boil these potatoes for forty-five minutes.
+cook - What would you like me to cook for dinner?
+fry - I usually fry some eggs and bacon on Saturday mornings.
+grill - During the summer I like to grill meat outside.
+heat - Heat up the soup and make some sandwiches.
+microwave - Microwave the macaroni for three minutes and eat.
+poach - Jennifer prefers to poach her eggs.
+roast - Let's put this in the oven and roast for two hours.
+steam - The best way to cook many vegetables is to steam them for a few minutes.
+
+bar - Melt one bar of butter for the sauce.
+liter - I'll put a liter of water on to boil for the pasta.
+loaf - I bought three loaves of bread at the supermarket.
+lump - Put of a lump of butter on top of the casserole to make it tasty.
+piece - Would you like a piece of chicken?
+pint - I drank a pint of ale at the pub.
+
+portion - Have you eaten your portion of vegetables today?
+slice - Please put three slices of cheese on my sandwich.
+spoonful - Add two spoonfuls of sugar to sweeten.
+
+bitter - The almonds were very bitter. I could hardly eat the cookies.
+bland - This sauce is very bland. It doesn't taste like anything.
+creamy - I enjoy eating creamy tomato soup on cold winter days.
+crisp - The apple was crisp and delicious.
+crunchy - Granola is a very crunch type of breakfast cereal.
+hot - The soup is hot. Let it cool down.
+mild - The spices are very mild.
+salty - The sauce was much too salty. I think you should add some water and boil it down.
+savory - Savory crackers with cheese make a great snack.
+sour - Lemons are very sour!
+spicy - Greg enjoys eating spicy Mexican food.
+sweet - The cheery pie wasn't too sweet. It was just right.
+tasteless - The vegetables have been cooked for too long. They're tasteless.
+
+barbecue - Do you enjoy barbecue during the summer?
+buffet - We went to an Indian buffet and had all we could eat.
+four-course meal - My wife and I enjoy making four-course meals on special occasions.
+picnic - Let's take a picnic to the park and enjoy the good weather.
+snack - You should eat a snack at four, but don't eat too much.
+TV dinner - TV dinners are disgusting, but fast.
+
+bite - Don't bite off more meat than you can comfortably chews.
+chew - You should chew each bite well before you swallow.
+swallow - If you swallow too much you might choke on your food.
+sip - It's best to slowly sip a cocktail rather than gulp it down.
+guzzle - He guzzled a glass of water after he finished the job.
+gulp down - He hungrily gulped down the meal as he was very hungry.
+
+add - Add two shots of whisky and some run.
+fill - Fill the glass with ice.
+mix - Mix in a teaspoon of sugar.
+pour - Pour your drink over ice cubes.
+shake - Shake the drink well and pour in a glass.
+stir - Stir the ingredients well and enjoy with your favorite seafood.
